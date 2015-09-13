@@ -1,0 +1,6 @@
+[submodule "glas4-web"]
+	path = glas4-web
+	url = git@github.com:devchakraborty/glas4-web.git
+[submodule "glas4-service"]
+	path = glas4-service
+	url = git@github.com:arkadyark/glas4-service.git
